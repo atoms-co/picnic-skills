@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "picnic_marketplace": {
+      "oauth": {
+        "clientId": "dcdd422e-7d52-4e77-b0d5-15ff67e8d610"
+      },
+      "type": "http",
+      "url": "https://order.trypicnic.com/api/picnic-mcp/mcp"
+    }
+  }
+}

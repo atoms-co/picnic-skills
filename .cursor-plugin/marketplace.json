@@ -1,0 +1,12 @@
+{
+  "name": "picnic-marketplace",
+  "owner": {
+    "name": "Picnic Delivery LLC"
+  },
+  "plugins": [
+    {
+      "name": "picnic-marketplace",
+      "source": "./"
+    }
+  ]
+}

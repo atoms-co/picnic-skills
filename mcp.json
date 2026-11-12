@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "picnic_marketplace": {
+      "extensions": {
+        "com.openai": {
+          "auth": {
+            "client": {
+              "clientId": "be584632-ec1e-4979-8447-47148cce852e",
+              "mode": "provided"
+            },
+            "type": "oauth"
+          }
+        }
+      },
+      "type": "streamable-http",
+      "url": "https://order.trypicnic.com/api/picnic-mcp/mcp"
+    }
+  }
+}

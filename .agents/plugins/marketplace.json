@@ -1,0 +1,17 @@
+{
+  "name": "picnic-marketplace",
+  "plugins": [
+    {
+      "category": "Other",
+      "name": "picnic-marketplace",
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "source": {
+        "path": "./",
+        "source": "local"
+      }
+    }
+  ]
+}

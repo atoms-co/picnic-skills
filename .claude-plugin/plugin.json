@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Picnic Delivery LLC"
+  },
+  "description": "Browse Picnic menus, manage cart, place order.",
+  "displayName": "Picnic Marketplace",
+  "homepage": "https://trypicnic.com",
+  "icon": "./assets/logo.png",
+  "license": "Apache-2.0",
+  "name": "picnic-marketplace",
+  "privacyPolicyUrl": "https://trypicnic.com/legal/privacy-notice",
+  "supportUrl": "https://trypicnic.com",
+  "termsOfServiceUrl": "https://trypicnic.com/legal/terms-of-service",
+  "version": "1.0.0"
+}

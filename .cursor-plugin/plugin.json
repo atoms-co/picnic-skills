@@ -1,0 +1,12 @@
+{
+  "author": {
+    "name": "Picnic Delivery LLC"
+  },
+  "description": "Browse Picnic menus, manage cart, place order.",
+  "license": "Apache-2.0",
+  "logo": "./assets/logo.png",
+  "mcpServers": "./.cursor-mcp.json",
+  "name": "picnic-marketplace",
+  "skills": "./skills/",
+  "version": "1.0.0"
+}

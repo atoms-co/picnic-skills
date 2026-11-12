@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "picnic_marketplace": {
+      "auth": {
+        "CLIENT_ID": "869711f4-485f-4858-b3d1-436be03751a6"
+      },
+      "url": "https://order.trypicnic.com/api/picnic-mcp/mcp"
+    }
+  }
+}
